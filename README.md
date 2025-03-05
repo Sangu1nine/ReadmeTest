@@ -40,5 +40,5 @@ import re
 [표시할 내용](url)  
 [Simpleicons.org](https://simpleicons.org/)  
 [Shields.io](https://shields.io/)  
-![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)  
-<img alt="Static Badge" src="https://img.shields.io/badge/:build-passing-brightgreent">
+![Static Badge](https://img.shields.io/badge/:#44A833-passing-brightgreen)  
+html로 쓰면 이렇게 <img alt="Static Badge" src="https://img.shields.io/badge/:#44A833-passing-brightgreent">  

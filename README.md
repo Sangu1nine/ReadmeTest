@@ -35,3 +35,7 @@ import re
 
 5. 인용구문 작성
 > 인용구문 작성
+
+6. 뱃지(Badge)
+[표시할 내용](url)
+[simple icons](https://simpleicons.org/)

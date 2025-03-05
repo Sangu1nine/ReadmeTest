@@ -42,7 +42,6 @@ import re
 [Shields.io](https://shields.io/)  
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)  
 <img src="https://img.shields.io/badge/현준-FFCA28?logo=apple&logoColor=000000">  
-![이미지 표시 문자](url)  
 ![git](https://git-scm.com/images/logo@2x.png)
 
 *강조*

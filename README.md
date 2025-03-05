@@ -37,5 +37,8 @@ import re
 > 인용구문 작성
 
 6. 뱃지(Badge)
-[표시할 내용](url)
-[simple icons](https://simpleicons.org/)
+[표시할 내용](url)  
+[Simpleicons.org](https://simpleicons.org/)  
+[Shields.io](https://shields.io/)  
+![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)  
+<img alt="Static Badge" src="https://img.shields.io/badge/:build-passing-brightgreent">
